@@ -5,7 +5,7 @@ Instructions: Download all files from this repository and store them in a direct
 Unzip any archived files. The scripts can then be run.
 Check each script for additional instructions written as comments.
 
-List of relevant output
+List of relevant output (example files are provided in this repository for each major step):
 
 1. File containing all original annotated events (1.5kb threshold) for every genotype
 masterAEventTable_16_8_18
