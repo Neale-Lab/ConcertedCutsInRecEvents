@@ -1,7 +1,8 @@
 
 Note: the scripts in this repository require input from the pipeline from Neale-Lab/OctadRecombinationMapping
 
-Instructions: Download all files from this repository and store them in a directory. The scripts can then be run.
+Instructions: Download all files from this repository and store them in a directory. 
+Unzip any archived files. The scripts can then be run.
 Check each script for additional instructions written as comments.
 
 List of relevant output
